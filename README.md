@@ -225,7 +225,7 @@
                     </div>
                     <div class="mt-2 flex flex-col sm:flex-row items-center justify-center md:justify-start gap-2">
                         <a href="https://drive.google.com/file/d/1uk_Hn3poxTL-0XrEHya1f_Z85T8DaeGD/view?usp=sharing" id="downloadButton3" class="download-button w-full sm:w-auto px-6 py-2 bg-green-500 text-white font-bold rounded-full hover:bg-green-600">
-                            Download for SHIRI
+                            Download for SHIREESHA
                         </a>
                         <a href="https://drive.google.com/file/d/1uk_Hn3poxTL-0XrEHya1f_Z85T8DaeGD/view?usp=sharing" id="downloadButton4" class="download-button w-full sm:w-auto px-6 py-2 bg-green-500 text-white font-bold rounded-full hover:bg-green-600">
                             Download for BHAVYA
